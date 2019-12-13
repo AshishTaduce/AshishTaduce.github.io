@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="562a8b70-2b02-4aa5-8101-e73a56ebb3ef" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/profilepic.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/profilepic.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,8 +20,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-360">
-              <caret line="53" column="151" selection-start-line="53" selection-start-column="151" selection-end-line="53" selection-end-column="151" />
+            <state relative-caret-position="226">
+              <caret line="267" column="46" selection-start-line="267" selection-start-column="46" selection-end-line="267" selection-end-column="46" />
               <folding>
                 <element signature="e#24#560#0" />
                 <element signature="e#561#619#0" />
@@ -68,6 +69,11 @@
             <path>
               <item name="AshishTaduce.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="AshishTaduce.github.io" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AshishTaduce.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AshishTaduce.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -151,15 +157,21 @@
       <option name="project" value="LOCAL" />
       <updated>1576128342525</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="commit 0.6.1">
+      <created>1576218985942</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1576218985942</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Captures" order="0" weight="0.25" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.15431164" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.15431164" />
       <window_info id="Structure" order="2" side_tool="true" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Designer" order="4" />
@@ -171,7 +183,7 @@
       <window_info anchor="bottom" id="Debug" order="2" />
       <window_info anchor="bottom" id="Terminal" order="3" />
       <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="5" visible="true" weight="0.32136753" />
+      <window_info anchor="bottom" id="Version Control" order="5" visible="true" weight="0.32136753" />
       <window_info anchor="right" id="Capture Analysis" order="0" />
       <window_info anchor="right" id="Theme Preview" order="1" />
       <window_info anchor="right" id="Flutter Inspector" order="2" />
@@ -187,7 +199,8 @@
     <MESSAGE value="commit 0.4.1 - Profile Image" />
     <MESSAGE value="commit 0.5.0 - Portfolio Images" />
     <MESSAGE value="commit 0.6 = Chat embed" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit 0.6 = Chat embed" />
+    <MESSAGE value="commit 0.6.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit 0.6.1" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/css/color.css">
@@ -225,8 +238,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-360">
-          <caret line="53" column="151" selection-start-line="53" selection-start-column="151" selection-end-line="53" selection-end-column="151" />
+        <state relative-caret-position="226">
+          <caret line="267" column="46" selection-start-line="267" selection-start-column="46" selection-end-line="267" selection-end-column="46" />
           <folding>
             <element signature="e#24#560#0" />
             <element signature="e#561#619#0" />
