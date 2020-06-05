@@ -41,7 +41,21 @@
 .avocado-gradient { background: linear-gradient(#1B7068, #3AAFA2) }
 .avocado-gradient .secondary-bg { background-color: #1B7068 }
 .avocado-gradient .accent-bg { background-color: #353740 }
-.avocado-gradient .primary-color { color: #FFFFFF }
+.avocado<section id="cta-6" class="section avocado-accent" sitemeta="[object Object]" activepage="fefefe">
+    <div class="container text-center">
+        <div class="col-12">
+            <h4 class="heading-lrg primary-color">Let's Chat!</h4>
+            <p class="paragraph mt20 secondary-color mt20">I'm currently available full-time or
+                part-time work</p>
+            <div class="mt40"><a href="http://hello@mclarencollege.in" target="_blank"
+                                 class="button mobile-text-center mt10 mr10 mobile-text-center accent-bg primary-color"> <span> Email Me
+            </span></a><a href="https://api.whatsapp.com/send?phone=+9170001999175" target="_blank"
+                          class="button mobile-text-center mt10"> <span> WhatsApp
+            </span></a></div>
+        </div>
+    </div>
+</section>
+-gradient .primary-color { color: #FFFFFF }
 .avocado-gradient .secondary-color { color: #E4F4F2 }
 .avocado-gradient .svg-fill { fill: #FFFFFF }
 
